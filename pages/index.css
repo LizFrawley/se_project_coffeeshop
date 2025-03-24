@@ -14,6 +14,14 @@
   position: relative;
 }
 
+.header__title {
+  margin: 183px 0 0;
+}
+
+.header__description {
+  margin: 28px 0 0;
+}
+
 .header__image {
   position: absolute;
   top: 124px;
@@ -21,6 +29,7 @@
   width: 646px;
   height: 568px;
 }
+
 .nav {
   display: flex;
   justify-content: space-between;
