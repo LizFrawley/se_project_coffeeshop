@@ -12,6 +12,7 @@
   background-color: #fff;
   background-image: url("/images/background_header.svg");
   position: relative;
+  height: 800px;
 }
 
 .header__title {
@@ -28,6 +29,10 @@
   right: 5px;
   width: 646px;
   height: 568px;
+}
+
+.header__footer {
+  margin-top: auto;
 }
 
 .nav {
