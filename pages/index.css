@@ -18,10 +18,20 @@
 
 .header__title {
   margin: 183px 0 0;
+  max-width: 729px;
+}
+
+.header__span-accent {
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-size: 60px;
+  line-height: 72px;
+  color: #3f96f3;
 }
 
 .header__description {
   margin: 28px 0 0;
+  max-width: 683px;
 }
 
 .header__image {
