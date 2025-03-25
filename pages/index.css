@@ -114,3 +114,8 @@
   gap: 40px;
   list-style-type: none;
 }
+
+.recipes__video-caption {
+  display: flex;
+  justify-content: space-between;
+}
