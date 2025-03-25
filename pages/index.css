@@ -11,6 +11,8 @@
   padding: 30px 80px 40px;
   background-color: #fff;
   background-image: url("/images/background_header.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
   height: 800px;
   display: flex;
