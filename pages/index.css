@@ -19,6 +19,11 @@
 .header__title {
   margin: 183px 0 0;
   max-width: 729px;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -0.6px;
 }
 
 .header__span-accent {
