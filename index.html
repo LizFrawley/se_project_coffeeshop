@@ -108,20 +108,42 @@
         <section id="reservations" class="reservation">
           <h2 class="reservation__title">Book a table</h2>
           <form class="reservation__form form">
-            <form class="fieldset">
+            <fieldset class="form__fieldset">
               <label for="" class="form__label">
-                <input type="text" class="form__input" />
+                Name *
+                <input
+                  class="form__input"
+                  type="text"
+                  placeholder="Name Surname"
+                  required
+                />
               </label>
               <label for="" class="form__label">
-                <input type="text" class="form__input" />
+                Number of guests *
+                <input
+                  class="form__input"
+                  type="number"
+                  min="1"
+                  max="8"
+                  placeholder="1-8"
+                  required
+                />
               </label>
               <label for="" class="form__label">
-                <input type="text" class="form__input" />
+                Date & time *
+                <input class="form__input" type="datetime-local" required />
               </label>
               <label for="" class="form__label">
-                <input type="text" class="form__input" />
+                Your email *
+                <input
+                  class="form__input"
+                  type="email"
+                  placeholder="email@email.com"
+                  required
+                />
               </label>
-            </form>
+            </fieldset>
+            <button class="form__button">Book a table</button>
           </form>
         </section>
         <section id="menu" class="menu"></section>
