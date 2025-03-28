@@ -177,7 +177,13 @@
 }
 
 .form__checkbox {
+  border-radius: 2px;
+  width: 20px;
+  height: 20px;
 }
 
 .form__label_type_checkbox {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
 }
