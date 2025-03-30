@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I would maybe add some images of the proposed coffee shop. Maybe some pictures of coffee or something along those lines. Make the page more inviting. I might also list the flavors of coffee and tea so customers can have to information listed for them.
