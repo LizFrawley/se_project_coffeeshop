@@ -23,6 +23,8 @@
 
 .footer__social-heading {
   font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
   margin: 0 0 20px;
 }
 
