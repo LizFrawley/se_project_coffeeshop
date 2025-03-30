@@ -50,6 +50,12 @@
   color: white;
   display: flex;
   align-items: center;
+  transition: opacity 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.footer__social-link:hover {
+  opacity: 70%;
 }
 
 .footer__copyright {
